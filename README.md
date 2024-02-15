@@ -1,6 +1,10 @@
-# ShimmerExample Application
+# Shimmer Example Application
 
 This is a simple React application that demonstrates the use of the Shimmer component to display a shimmer effect while fetching and loading images from Unsplash.
+
+## Deployment
+
+https://shimmer-example-2.vercel.app/
 
 ## Description
 
